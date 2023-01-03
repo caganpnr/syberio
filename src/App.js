@@ -9,7 +9,7 @@ import CreatePGPKeysPage from "./pages/CreatePGPKeysPage";
 export default function App() {
   return (
     <ChakraProvider>
-      <Router>
+      <Router basename="/syberio">
         <Routes>
           <Route path="/" element={<Landing />} />
           <Route path="man-in-middle-attack" element={<ManInMiddlePage />} />
