@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/syberio/static/css/main.6cb46af5.css",
+    "main.js": "/syberio/static/js/main.4fbf8561.js",
+    "static/js/787.c8e303be.chunk.js": "/syberio/static/js/787.c8e303be.chunk.js",
+    "static/media/landing-first.png": "/syberio/static/media/landing-first.d9743ac27bf39129b2e9.png",
+    "static/media/syberio-logo-removebg.png": "/syberio/static/media/syberio-logo-removebg.90cc51ec651cf46ece5c.png",
+    "static/media/industryleading.png": "/syberio/static/media/industryleading.48c81c0a8c750ee090f6.png",
+    "static/media/teaching.png": "/syberio/static/media/teaching.fb22c6c144231657bce7.png",
+    "static/media/interactive-pic.png": "/syberio/static/media/interactive-pic.328ec68cd5e92e774b74.png",
+    "static/media/landing-first-wo-bg.png": "/syberio/static/media/landing-first-wo-bg.a416db44d7388a3d66d2.png",
+    "static/media/success.png": "/syberio/static/media/success.0bc8d842bf94edb1ff90.png",
+    "static/media/collab.png": "/syberio/static/media/collab.db716885e32704b347b9.png",
+    "static/media/time-management.png": "/syberio/static/media/time-management.25a37e066e69c4f364c7.png",
+    "static/media/reddx.png": "/syberio/static/media/reddx.2d63340f381fc9881fe9.png",
+    "static/media/gatewayicon.png": "/syberio/static/media/gatewayicon.9dc5cfb9b839855e72c4.png",
+    "index.html": "/syberio/index.html",
+    "main.6cb46af5.css.map": "/syberio/static/css/main.6cb46af5.css.map",
+    "main.4fbf8561.js.map": "/syberio/static/js/main.4fbf8561.js.map",
+    "787.c8e303be.chunk.js.map": "/syberio/static/js/787.c8e303be.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6cb46af5.css",
+    "static/js/main.4fbf8561.js"
+  ]
+}
