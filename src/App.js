@@ -11,7 +11,7 @@ export default function App() {
     <ChakraProvider>
       <Router basename="/syberio">
         <Routes>
-          <Route path="/syberio" element={<Landing />} />
+          <Route path="/" element={<Landing />} />
           <Route path="man-in-middle-attack" element={<ManInMiddlePage />} />
           <Route path="create-public-private-key" element={<CreatePGPKeysPage />} />
         </Routes>
