@@ -53,7 +53,7 @@ const Navbar = () => {
             }}
           >
             <HStack spacing="80" justify="space-between">
-              <Link href='/'>
+              <Link href='/syberio'>
                 <Logo />
               </Link>
               {isDesktop ? (
