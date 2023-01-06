@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/syberio/static/css/main.6cb46af5.css",
-    "main.js": "/syberio/static/js/main.9b377bdd.js",
+    "main.js": "/syberio/static/js/main.18f3aa8b.js",
     "static/js/787.c8e303be.chunk.js": "/syberio/static/js/787.c8e303be.chunk.js",
     "static/media/landing-first.png": "/syberio/static/media/landing-first.d9743ac27bf39129b2e9.png",
     "static/media/syberio-logo-removebg.png": "/syberio/static/media/syberio-logo-removebg.90cc51ec651cf46ece5c.png",
@@ -16,11 +16,11 @@
     "static/media/gatewayicon.png": "/syberio/static/media/gatewayicon.9dc5cfb9b839855e72c4.png",
     "index.html": "/syberio/index.html",
     "main.6cb46af5.css.map": "/syberio/static/css/main.6cb46af5.css.map",
-    "main.9b377bdd.js.map": "/syberio/static/js/main.9b377bdd.js.map",
+    "main.18f3aa8b.js.map": "/syberio/static/js/main.18f3aa8b.js.map",
     "787.c8e303be.chunk.js.map": "/syberio/static/js/787.c8e303be.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6cb46af5.css",
-    "static/js/main.9b377bdd.js"
+    "static/js/main.18f3aa8b.js"
   ]
 }
